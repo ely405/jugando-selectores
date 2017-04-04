@@ -1,0 +1,51 @@
+*{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1{
+    color: #008484;
+}
+
+h2{
+    color: #0000FF;
+}
+
+.red{
+    color: #FF2315;
+}
+
+.blue{
+    color: #2F2FFF;
+}
+
+.purple{
+    color: #A2228E;
+}
+
+.yellow{
+    color: #FFA500;
+}
+
+.green{
+    color: #0F9358;
+}
+
+.pink{
+    color: #FF30FF;
+}
+
+.underline-red{
+  text-decoration: underline;
+}
+
+.underline-green{
+  text-decoration: underline;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+table td{
+    border: 1px solid black;
+}
